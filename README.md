@@ -17,8 +17,8 @@ En proceso
   - Numpy
 
 #### Instalacion de paquetes`
-- `cd Estadistica`
 - `pip3 install requerimientos.txt`
+
 ### Personas Desarrolladoras del Proyecto:
 @IanCristianAriel
 
