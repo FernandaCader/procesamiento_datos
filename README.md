@@ -1,5 +1,4 @@
 # Procesamiento de datos
-![data](https://raw.githubusercontent.com/ianCristianAriel/procesamiento_datos/main/bigdata.jpg)
 
 ## Descripción
 Se da respuesta a las diferentes guias de la materia "Procesamiento de datos" de la tecnicatura en ciencia de datos e inteligencia artificial.
