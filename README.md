@@ -21,6 +21,7 @@ En proceso
 
 ### Personas Desarrolladoras del Proyecto:
 @IanCristianAriel
+@FernandaCader
 
 ### Licencia
 Proyecto realizado en base la tecnicatura en ciencia de datos e inteligencia artificial, profesor Moisés Tinte.
